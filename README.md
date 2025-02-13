@@ -5,12 +5,20 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 Current a Sofware Engineer @ SureFlow
+- 🌱 I’m currently learning NextJS + MLOps
+- 🤔 I’m looking for help with MLOps
+- 💬 Ask me about Research in AI
+- 📫 How to reach me: @jahezabrahamjohny - LinkedIn
 -->
+
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=jajSF&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+</p>
+
+---
+
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=jajSF&show_icons=true&theme=vision-friendly-dark">
+    <img width="550" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jajSF&layout=compact&theme=radical&langs_count=40&size_weight=0.2&count_weight=.4&hide=html,css,scss,blade,php">
+</p>
