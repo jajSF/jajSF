@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: @jahezabrahamjohny - LinkedIn
 -->
 
-<p align="center">
+
   [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
-</p>
+
 
 ---
 
