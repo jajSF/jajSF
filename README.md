@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <img width="600" height="200" src="https://streak-stats.demolab.com/?user=jajSF">
+  <img width="600" height="200" src="https://streak-stats.demolab.com/?user=jajSF&theme=vision-friendly-dark">
 </p>
 
 
