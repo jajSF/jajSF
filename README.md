@@ -13,8 +13,10 @@ Here are some ideas to get you started:
 -->
 
 
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=jajSF)
+<p align="center">
+  <img width="600" height="200" src="https://streak-stats.demolab.com/?user=jajSF">
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=jajSF)
+</p>
 
 
 ---
