@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img width="600" height="200" src="https://streak-stats.demolab.com/?user=jajSF">
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=jajSF)
 </p>
 
 
